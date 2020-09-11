@@ -13,3 +13,6 @@ In this information age, data presentation and communication plays a huge role. 
 
 # Portfolio
 Here's where all my cool data visualizations will go! 
+
+## Data viz of King County
+<div class="flourish-embed flourish-chart" data-src="visualisation/3707677" data-url="https://flo.uri.sh/visualisation/3707677/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
