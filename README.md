@@ -17,5 +17,4 @@ Here's where all my cool data visualizations will go!
 ## Data viz of King County
 <div class="flourish-embed flourish-chart" data-src="visualisation/3707677" data-url="https://flo.uri.sh/visualisation/3707677/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## OECD General Government Debt
-<iframe src="https://data.oecd.org/chart/65rb" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65rb" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+[Visualizing Government Data](/visualizing-governement-data.md)
