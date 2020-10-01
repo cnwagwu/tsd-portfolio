@@ -3,7 +3,10 @@
 ## Part 1
 
 ### Outline
-Story Map
+High-level Overivew: Bicycling is becoming an increasingly attractive mode of transport, considering its perceived low-cost, accessibility, and appeal to those who care about climate change. However, the racial and socioeconomic disparities that exist within bicycling are not often discussed. 
+- Reader takeaways: As a reader, I want everyone in my community to have access to cycling so that that everyone in my community has an opportunity to join this movement for fighting climate change and rethinking transportation. 
+
+**Story Map**
  - Personal Connection:
     - Before I could drive a car, I biked. It was the ultimate source of freedom. I thought this would be a great opportunity to talk about how something that is such a huge part of my identity also harbors serious inequities and access restrictions that are not often discussed. The following outline is what I initially planned to help me map out the story that I was interested in telling. This ended up being iterated upon considering that at the time I didn't yet have concrete data sources to refer to yet and was going mostly based off the literature that I reviewed prior to this exercise. 
  - Set up: 
@@ -39,4 +42,6 @@ Story Map
 
 ![Wireframe](https://github.com/cnwagwu/tsd-portfolio/blob/master/Balsamiq%20Wireframe%201.png)
 
-- As detailed above, I plan to use shorthand for my presentation and tablaeu for some of the data visualizations. I would like to explore how I can use tablaeu to create unit charts to show some clear comparisons. I also plan on using Figma to design some more picture/illustration oriented data visualizations that would be easier to tell a story that simple interactive charts. I am open to getting more feedback on other data sources or data visualization types that could enrich the story that I am trying to tell.
+- As detailed above, I plan to use shorthand for my presentation and tablaeu for some of the data visualizations. I would like to explore how I can use tablaeu to create unit charts to show some clear comparisons. I also plan on using Figma to design some more picture/illustration oriented data visualizations that would be easier to tell a story that simple interactive charts. I believe that most of my visuals will be better served and unique if they are more "artistic" and message oriented instead of simply showing a bunch of bar charts and numerical comparisons. I think that using these mediums to emphasize these disparities is important and will actually serve the message I am trying to tell well. I am open to getting more feedback on other data sources or data visualization types that could enrich the story that I am trying to tell.
+- One thing that I am interested in working on as part of using this medium is ensuring that the story flows into the action item that I am presenting. I am definitely in the process of more clearly defining my action item. So far, I've gotten some ideas about directing the user to a specific petition or directing them to a certain action. I am eager to use Shorthand's embed features to create forms or interactive checklists that users can engage with following the presentation of all this information.
+- As it goes for the method for presenting this information, I plan on ensuring that redundancy is not also part of this approach. I plan on exploring how I can incorporate other visual storytelling methods like phtoography and video to be able to capture the story I am trying to tell. 
