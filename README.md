@@ -20,3 +20,5 @@ Here's where all my cool data visualizations will go!
 [Visualizing Government Data](visualizing-government-data.md)
 
 [Critique By Design](critique-by-design.md)
+
+[Final Project](https://github.com/cnwagwu/tsd-portfolio/blob/master/final-project.md)
