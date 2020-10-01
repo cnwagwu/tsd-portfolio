@@ -23,7 +23,7 @@ Story Map
 ![Traffic Stops](https://github.com/cnwagwu/tsd-portfolio/blob/master/black%20cyclist%20traffic%20stops2.JPG)
 ![CO2 Emissions](https://github.com/cnwagwu/tsd-portfolio/blob/master/co2%20emissions%20bike2.JPG)
 ![Philly Trail](https://github.com/cnwagwu/tsd-portfolio/blob/master/philly%20trail%20inc.JPG)
-
+![Rideshare Disparities](https://github.com/cnwagwu/tsd-portfolio/blob/master/rideshare%20racial%20disparities2.JPG)
 
 
 ### Data Sources
