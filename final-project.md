@@ -111,10 +111,6 @@ I tried to build off the wireframe that I built for the Part 1 exercise and real
   1. Not clear from the get go which type of orientation you're supposed to look at! Liked the POC grouping! Looks really good! 
   2. I've never seen this before! That's pretty cool! I get that the people of color bubble is about the same as the white. The label of people of color and white isn't super clear phrasing. 
   3. I don’t know if this is relevant but I don’t know what the rideshare program is. This is super cool but hard to figure out how to use. 
-- Can you identify what is a worse outcome and which is a better outcome based on the information from the visualization?
-  1. 
-  2. 
-  3. 
 - What might you do differently to change this visualization? What would you add, change, or remove?
   1.Put percentage so it's clear. My attention isn;t going to the subtittle. Grouping of people of color isn't working. The color scheme isn't super clear. Not very clear to see that they're working more. Change the color. POC must be a darker color. 
   2. Compare by not very informative. Say roughly 55%. The subtitle. Detail the ride program. Make it Not much of a lead up to why we're talking about rideshare. 
@@ -156,11 +152,8 @@ I tried to build off the wireframe that I built for the Part 1 exercise and real
 - What do you take away from this visualization? What are you seeing here?
   1. The other members is too big and isn't telling me a lot. The access members part is actually helping me making a comparison. I guess maybe because I'm not familiar. I need a lot more context for this program. No real point of comparison to the rest of the members. The big blob isn't telling me a lot. 
   2. It feels like the other members blob is overshadowing this other stuff. It's a big unlabeled blob. 
-  3.
-- Can you identify what is a worse outcome and which is a better outcome based on the information from the visualization?
-  1. 
-  2. 
-  3. 
+  3. No comment.
+ 
 - What might you do differently to change this visualization? What would you add, change, or remove?
   1. I'm not sure what I would change. I look at this ball and it doesn't strike me. Can you add more legends? It feels unfinished. I can't distinguish between the different levels.  — Maybe try looking for a more detailed data set?
   2. Limit the graphic to just the access pass members. Can't really see the other interesting points. The other members is literally just there. 
@@ -185,6 +178,11 @@ This feedback was extraordinarily helpful. As someone who has been so focused on
 
 **Based on the feedback, I plan on taking the following steps:**
 - Re-evaluate my data choices: Not all the visualizations, especially the CO2 Emissions infographic and the capital rideshare (employees) were as powerful as I thought they would be. I realize that I need to really spell out their connection betweenn my story and the rest of the visualizations. Otherwise, their context and relevance gets lost to the user.
+ - Carbon Emissions: The connection is simply not clear between the story that I am trying to tell and this data. It is likely that I will need to replace this with data that ties into the more personal narrative that I start out telling if it is to come at the beginning.
+ - Pandemic Increase: Not a very clear graph at all. It needs to be manipulated to be very straightforward. It might be better to simply have a callout that talks about the growth instead of having the user figure out what that growth is themselves.
+ - Capital Rideshare Visuals: Simply wasn't a whole lot of context for these visuals in udnerstanding where rideshare fits into the grand scheme of cycling disparities. Had my second visual actually rendered, I might have gotten more positive feedback. However, that was not the case. I will definitely need to find suporting data to highlight the relevance of rideshare disparity data to get around having to explain in lengthy words what rideshare's connection to cycling is. 
+ - Building Blocks: This visuals purpose wasn't super clear to me the purpose that it would serve. However, I received a ton of positive feedback about its' aesthetic and the feedback seemed to indicate that more context was simply necessary for how this graphic will set the stage for this story of cycling, access, and equity. 
+ - Access Pass: Very similar feedback across the board whichw as that Access Pass members needed to be very clearly defined. Everyone also agreed that even highlighting the other members was distracting. This was surprising to me, but makes sense given the lack of data that I do have for this group of other members. 
 - Create a distinct color palette: My trial users had a hard time following where their attention needed to be going. I wasn't concious of this and didn't think when making this visual that it would be much of problem. This would have been helpful to go over as part of my moodboarding exercise. Definitely something I plan on dabbling with this coming week to ensure that my message remains consistent. 
 - Spell out the connections: Given it was my first time working in Shorthand, I definitely found the animations and different section styles a bit intimidating. This week I plan on really fleshing out zones that are appropriate for additional text and to make sure that my visuals get straight to the point. Many found the interactivity in some floursh animations to be more distracting than informative, contrary to my initial thoughts. 
 
