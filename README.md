@@ -16,7 +16,7 @@ Here's where all my cool data visualizations will go!
 
 [Visualizing Government Data](visualizing-government-data.md)
 [Critique By Design](critique-by-design.md)
-[Critique By Design](final-project.md)
+[Final Project](final-project.md)
 
 
 ## Data viz of King County
