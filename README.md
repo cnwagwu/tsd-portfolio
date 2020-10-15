@@ -12,13 +12,11 @@ Outside of class and work, I'm a budding gardnener and embroiderer. I'm always o
 In this information age, data presentation and communication plays a huge role. I think it's important that data visualizations cater to their users needs, appeals to their ways of processing information, and values. I also think it's important that data can be represented in ways that are accessible to wider audiences. These are skills I hope to develop throughout this course. I am also eager to explore how to use data to inspire action. 
 
 # Portfolio
-Here's where all my cool data visualizations will go! 
 
-[Visualizing Government Data](visualizing-government-data.md)
-[Critique By Design](critique-by-design.md)
-[Final Project](final-project.md)
+## [Visualizing Government Data](visualizing-government-data.md)
 
+## [Critique By Design](critique-by-design.md)
 
-## Data viz of King County
-<div class="flourish-embed flourish-chart" data-src="visualisation/3707677" data-url="https://flo.uri.sh/visualisation/3707677/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## [Final Project](final-project.md)
+
 
