@@ -22,11 +22,11 @@ High-level Overivew: Bicycling is becoming an increasingly attractive mode of tr
 ### Initial Sketches
 - In this exercise, I used Balsamiq to create a wireframe of how I would want this storyboard to be demonstrated in Shorthand, which I will get into later. I drafted out how the beginning page would be and how these events would weave into the call to action. I also added small descriptions of how I plan on integrating this information. 
 
-![Access Pass](https://github.com/cnwagwu/tsd-portfolio/blob/master/access%20pass%20diversify.JPG)
-![Traffic Stops](https://github.com/cnwagwu/tsd-portfolio/blob/master/black%20cyclist%20traffic%20stops2.JPG)
-![CO2 Emissions](https://github.com/cnwagwu/tsd-portfolio/blob/master/co2%20emissions%20bike2.JPG)
-![Philly Trail](https://github.com/cnwagwu/tsd-portfolio/blob/master/philly%20trail%20inc.JPG)
-![Rideshare Disparities](https://github.com/cnwagwu/tsd-portfolio/blob/master/rideshare%20racial%20disparities2.JPG)
+![Access Pass](https://github.com/cnwagwu/tsd-portfolio/blob/master/access%20pass%20diversify.JPG?raw=true)
+![Traffic Stops](https://github.com/cnwagwu/tsd-portfolio/blob/master/black%20cyclist%20traffic%20stops2.JPG?raw=true)
+![CO2 Emissions](https://github.com/cnwagwu/tsd-portfolio/blob/master/co2%20emissions%20bike2.JPG?raw=true)
+![Philly Trail](https://github.com/cnwagwu/tsd-portfolio/blob/master/philly%20trail%20inc.JPG?raw=true)
+![Rideshare Disparities](https://github.com/cnwagwu/tsd-portfolio/blob/master/rideshare%20racial%20disparities2.JPG?raw=true)
 
 
 ### Data Sources
@@ -40,7 +40,7 @@ High-level Overivew: Bicycling is becoming an increasingly attractive mode of tr
   
 ### Method and Medium
 
-![Wireframe](https://github.com/cnwagwu/tsd-portfolio/blob/master/Balsamiq%20Wireframe%201.png)
+![Wireframe](https://github.com/cnwagwu/tsd-portfolio/blob/master/Balsamiq%20Wireframe%201.png?raw=true)
 
 - As detailed above, I plan to use shorthand for my presentation and tablaeu for some of the data visualizations. I would like to explore how I can use tablaeu to create unit charts to show some clear comparisons. I also plan on using Figma to design some more picture/illustration oriented data visualizations that would be easier to tell a story that simple interactive charts. I believe that most of my visuals will be better served and unique if they are more "artistic" and message oriented instead of simply showing a bunch of bar charts and numerical comparisons. I think that using these mediums to emphasize these disparities is important and will actually serve the message I am trying to tell well. I am open to getting more feedback on other data sources or data visualization types that could enrich the story that I am trying to tell.
 - One thing that I am interested in working on as part of using this medium is ensuring that the story flows into the action item that I am presenting. I am definitely in the process of more clearly defining my action item. So far, I've gotten some ideas about directing the user to a specific petition or directing them to a certain action. I am eager to use Shorthand's embed features to create forms or interactive checklists that users can engage with following the presentation of all this information.
@@ -59,15 +59,15 @@ I tried to build off the wireframe that I built for the Part 1 exercise and real
 - **Approach to identifying representative individuals:** I plan on using my personal networks, specifically those at Heinz and those within my residential community to gauge the effectiveness and relevance of my visualizations. I will especially place emphasis on reaching out to individuals with who have vocalized their concern about the environment or about transportation justice and equity to me.
 
 #### Introduction
-![JustMe](https://github.com/cnwagwu/tsd-portfolio/blob/master/Just%20me.png)
-![StickOut](https://github.com/cnwagwu/tsd-portfolio/blob/master/Sticking%20Out.png)
+![JustMe](https://github.com/cnwagwu/tsd-portfolio/blob/master/Just%20me.png?raw=true)
+![StickOut](https://github.com/cnwagwu/tsd-portfolio/blob/master/Sticking%20Out.png?raw=true)
 
 **User Feedback**
 3. I liked that you added your own personal story to it. It made me connect to it more and care more. I liked that you addressed the reader. 
 
 #### Carbon Emissions
-![CO2P1](https://github.com/cnwagwu/tsd-portfolio/blob/master/co2%20part1.JPG)
-![CO2P2](https://github.com/cnwagwu/tsd-portfolio/blob/master/co2%20part2.JPG)
+![CO2P1](https://github.com/cnwagwu/tsd-portfolio/blob/master/co2%20part1.JPG?raw=true)
+![CO2P2](https://github.com/cnwagwu/tsd-portfolio/blob/master/co2%20part2.JPG?raw=true)
 
 **User Feedback**
 - What do you take away from this visualization? What are you seeing here?
@@ -85,7 +85,7 @@ I tried to build off the wireframe that I built for the Part 1 exercise and real
 
 #### Pandemic Increase
 
-![PandemicIncrease](https://github.com/cnwagwu/tsd-portfolio/blob/master/Pandemic%20Increase%20Cycling.png)
+![PandemicIncrease](https://github.com/cnwagwu/tsd-portfolio/blob/master/Pandemic%20Increase%20Cycling.png?raw=true)
 
 
 **User Feedback**
